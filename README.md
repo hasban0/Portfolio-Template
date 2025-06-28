@@ -1,8 +1,8 @@
 # 🌟 Modern Developer Portfolio Template
 
-[![GitHub license](https://img.shields.io/github/license/yourusername/portfolio-template?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/portfolio-template?style=flat-square)](https://github.com/yourusername/portfolio-template/stargazers)
-[![GitHub Pages](https://img.shields.io/badge/live-demo-brightgreen?style=flat-square)](https://yourusername.github.io/portfolio-template)
+[![GitHub license](https://img.shields.io/github/license/hasban0/Portfolio-Template?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/hasban0/Portfolio-Template?style=flat-square)](https://github.com/hasban0/Portfolio-Template/stargazers)
+[![GitHub Pages](https://img.shields.io/badge/live-demo-brightgreen?style=flat-square)](https://hasban0.github.io/Portfolio-Template)
 
 A responsive, performance-optimized portfolio template that automatically showcases your GitHub projects. Perfect for developers, designers, and tech creators!
 
@@ -25,7 +25,7 @@ A responsive, performance-optimized portfolio template that automatically showca
 ## 🛠️ Quick Start
 
 ### Option 1: Use Template
-1. Click **[Use this template](https://github.com/yourusername/portfolio-template/generate)** button
+1. Click **[Use this template](https://github.com/hasban0/Portfolio-Template/generate)** button
 2. Clone your new repo:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/hasban0/Portfolio-Template.git
