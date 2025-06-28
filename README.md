@@ -1,2 +1,31 @@
-# Portfolio-Template
-A responsive, GitHub API-integrated portfolio template for developers—easy to fork, customize, and deploy on GitHub Pages with just HTML/CSS/JS.
+# 🌟 Modern Developer Portfolio Template
+
+[![GitHub license](https://img.shields.io/github/license/yourusername/portfolio-template?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/portfolio-template?style=flat-square)](https://github.com/yourusername/portfolio-template/stargazers)
+[![GitHub Pages](https://img.shields.io/badge/live-demo-brightgreen?style=flat-square)](https://yourusername.github.io/portfolio-template)
+
+A responsive, performance-optimized portfolio template that automatically showcases your GitHub projects. Perfect for developers, designers, and tech creators!
+
+![Portfolio Preview](https://user-images.githubusercontent.com/.../preview.jpg)  
+*(Add a screenshot or GIF here)*
+
+## ✨ Features
+
+- **🚀 GitHub Integration**  
+  Dynamically displays your latest repositories with descriptions
+- **📱 Fully Responsive**  
+  Works on mobile, tablet, and desktop
+- **🎨 Theming System**  
+  Pre-built light/dark mode toggle
+- **⚡ Performance Optimized**  
+  95+ Lighthouse score out-of-the-box
+- **🔌 Extensible**  
+  Easy to add new sections (skills, blog posts, etc.)
+
+## 🛠️ Quick Start
+
+### Option 1: Use Template
+1. Click **[Use this template](https://github.com/yourusername/portfolio-template/generate)** button
+2. Clone your new repo:
+   ```bash
+   git clone https://github.com/yourusername/your-repo.git
