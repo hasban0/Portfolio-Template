@@ -7,7 +7,7 @@
 A responsive, performance-optimized portfolio template that automatically showcases your GitHub projects. Perfect for developers, designers, and tech creators!
 
 ![Portfolio Preview](https://user-images.githubusercontent.com/.../preview.jpg)  
-*(Add a screenshot or GIF here)*
+
 
 ## ✨ Features
 
